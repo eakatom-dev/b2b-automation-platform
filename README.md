@@ -13,4 +13,8 @@ Start Date: 2026-09-14
 
 Learning development environment and basic tools.
 
-Remote change for pull lab.
+## Product
+
+Cloud-Native B2B Automation & Integration Platform
+
+This project will evolve gradually as I learn full stack development, DevOps, cloud, and security.
